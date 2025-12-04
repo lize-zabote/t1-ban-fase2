@@ -135,8 +135,7 @@ Relacionamentos: Como o MongoDB não possui chaves estrangeiras estritas (FK), a
 
 ✒️ Autores
 
-Seu Nome Aqui
+Lize Ana Zabote
+Hellen Figueiredo Ramos
 
-Nome da Dupla (se houver)
-
-Projeto desenvolvido para a disciplina de Banco de Dados - Fase 2.
+Projeto desenvolvido para a disciplina de Banco de Dados II.
